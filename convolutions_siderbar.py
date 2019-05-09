@@ -19,7 +19,7 @@ plt.show()
 i_transformed = np.copy(i)
 size_x = i_transformed.shape[0]
 size_y = i_transformed.shape[1]
-Now we can create a filter as a 3x3 array.
+#Now we can create a filter as a 3x3 array.
 
 # This filter detects edges nicely
 # It creates a convolution that only passes through sharp edges and straight
